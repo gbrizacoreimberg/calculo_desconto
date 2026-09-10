@@ -2,7 +2,7 @@
 
 ## Sobre o projeto:
 
-Este projeto é uma **Calculadora de Desconto**, desenvolvida em **Python**.
+Este projeto é uma **Calculadora de Desconto**, desenvolvida em **Python**🐍.
 O programa solicita o **valor da compra** e, de acordo com o valor informado, aplica uma porcentagem de desconto:
 
 ## Regras de desconto
