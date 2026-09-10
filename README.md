@@ -1,5 +1,8 @@
 # Calculadora de Desconto
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Projeto-black?logo=github)
+
 ## Sobre o projeto:
 
 Este projeto é uma **Calculadora de Desconto**, desenvolvida em **Python**🐍.
